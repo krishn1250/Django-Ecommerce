@@ -1,1 +1,2 @@
-# Django-Ecommerce
+# Django-ecommerce
+full stack ecommerce project
